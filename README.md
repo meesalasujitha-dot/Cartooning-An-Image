@@ -1,0 +1,1 @@
+Fixed pencil sketch to original strong version.
